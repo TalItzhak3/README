@@ -12,6 +12,7 @@ Motivated, detail-oriented, and a fast learner. I thrive in both team environmen
 A student position in software development to contribute, learn, and make an impact.
 
 📧 Email: tal.itzhak15@gmail.com
+
 🔗 LinkedIn: linkedin.com/in/talitzhak
 
 Let’s build something great together! 💡
