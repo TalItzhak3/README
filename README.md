@@ -1,4 +1,5 @@
 Welcome to My GitHub Profile! 👋
+
 Hi, I’m Tal Itzhak, a 3rd-year Computer Science student passionate about technology and problem-solving.
 
 💻 Technical Skills:
